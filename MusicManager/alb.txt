@@ -1,0 +1,48 @@
+Metallica
+A1
+1
+12
+10
+30000
+Metallica
+A2
+2
+10
+15
+40000
+Metallica
+A3
+3
+11
+20
+500050
+AmedeoBanjoLandro
+B1
+4
+6
+5
+12
+BlackStik
+C1
+5
+9
+20
+300
+Tanja
+T1
+6
+5
+10
+40
+Lara Grace
+Grazie grazia!
+7
+10
+15
+8000
+Lara Grace
+Come uno scorpione
+8
+10
+15
+8500

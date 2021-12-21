@@ -1,0 +1,15 @@
+album1
+20200203
+Nozze Roberta
+album2
+20210501
+Battesimo Carlo
+album3
+19990630
+Nascita Andrea
+album4
+20190102
+Cresima Luca
+album5
+20181212
+Partenza Amedeo

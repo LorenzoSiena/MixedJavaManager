@@ -1,0 +1,20 @@
+IBANSIENA
+1
+Lorenzo Siena
+30
+IBANSPADA
+1
+Luca Spada
+600
+IBANLANDRO
+2
+Amedeo Landro
+60000
+IBANCORRADO
+2
+Corrado Presti
+7000
+IBANCIANCI
+3
+Dario Ciancibar
+10000000

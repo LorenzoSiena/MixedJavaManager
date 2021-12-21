@@ -1,0 +1,45 @@
+Foto chiesa
+album1
+album2
+album5
+f1
+120
+90
+800
+20200713
+Foto Roberta
+album1
+album3
+
+f2
+130
+60
+900
+20200502
+Foto Carlo
+album1
+album2
+
+f3
+150
+40
+800
+20200103
+Foto Ristorante
+album1
+
+
+f4
+180
+120
+1200
+20200825
+Nascita Andrea
+album2
+album4
+
+f5
+120
+80
+900
+20190510

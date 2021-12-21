@@ -1,0 +1,16 @@
+p1
+via montale 32
+32
+10
+p2
+via archimede 21
+60
+15
+p3
+via merlino 75
+100
+10
+p4
+via montagna 623
+50
+5
